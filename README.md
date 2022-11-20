@@ -13,3 +13,9 @@ After that clone the Github repository to your Kali machine. Then, follow the in
      $ git clone https://github.com/guelfoweb/knock.git
      
      $ cd knock
+
+     $ pip3 install -r requirements.txt
+     
+     $ python3 knockpy.py
+     
+     
