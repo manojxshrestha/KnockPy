@@ -54,3 +54,10 @@ knock subdomain scan
      $ knockpy -r domain.com or IP
 
      $ knockpy -c domain.com
+
+
+# Note : 
+
+For virustotal subdomains support you can setting your API_KEY in the config.json file.
+
+https://github.com/guelfoweb/knock
